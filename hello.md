@@ -7,3 +7,4 @@
 | Mufeng Xu | tracici25 |
 | Xinyue Yu | xy2477 |
 | Yuechen Liu | Yuechen-Liu |
+| Amanda Tsai | at-crx |
