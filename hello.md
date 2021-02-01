@@ -12,5 +12,5 @@
 | Huijun Xiao | Clairexiao1 |
 | Mumei Zhang | mumeizhang |
 | Yutian Luo | nickluo1313 |
-| Yihan Feng | YihanFeng18 
+| Yihan Feng | YihanFeng18 |
 | Yu Liu | yuliu426 |
